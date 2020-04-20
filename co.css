@@ -1,0 +1,63 @@
+body{
+	
+	background-image:url(contact.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.facebook{
+	float:left;
+	padding-top:160px;
+	padding-left:900px;
+	color:white;
+	font-size: 50px;
+	font-family: 'Calistoga',cursive;
+}
+.wh,.fa,.insta{
+	float:left;
+	display:inline-block;
+	padding-left:940px;
+	padding-top:10px;
+}
+footer{
+	padding-left:950;
+	padding-top:580px;
+	color:white;
+	font-size: 20px;
+	font-family: 'Calistoga',cursive;
+
+}
+header,nav{
+	display: block;
+}
+.side{
+	float:right;
+	width:800px;
+	
+}
+.side ul li{
+	float:right;
+	padding:5px 20px;
+	font-family: 'Calistoga',cursive;
+	display:inline-block;
+
+}
+ul{
+	list-style-type: none;
+}
+
+
+
+
+a{
+	color: white;
+}
+a:hover{
+	color:yellow;
+}
+a:active{
+	color:yellow;
+}
+a:visited{
+	color:yellow;
+}

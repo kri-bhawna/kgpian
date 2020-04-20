@@ -1,0 +1,85 @@
+body{
+	
+	background-image:url(cup.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.text{
+	padding-top:100px;
+	color:white;
+	
+	font-size: 40px;
+
+}
+.h{
+	float:left;
+	color:white;
+	padding-left:400px;
+	padding-right: 0px;
+	font-size: 50px;
+	
+	text-decoration: underline ; 
+}
+.acads{
+	padding-left:200px;
+	text-decoration: underline ; 
+	 
+}
+.des{
+	padding-left:120px;
+	font-family: 'Dancing Script', cursive;
+
+}
+.in{
+	padding-left:110px;
+	font-family: 'Dancing Script', cursive;
+}
+.nonacads{
+	padding-top:40px;
+	padding-left:170px;
+	text-decoration: underline ; 
+}
+.crip{
+	padding-left:110px;
+	font-family: 'Dancing Script', cursive;
+
+}
+nav{
+	display: block;
+}
+.side{
+	float:left;
+	width:400px;
+	
+	
+}
+.side ul li{
+	float:left;
+	padding-left: 20px;
+	font-family: 'Calistoga',cursive;
+	text-decoration-color: white;
+	text-orientation: top-right;
+	display:inline-block;
+
+}
+ul{
+	list-style-type: none;
+}
+a{
+	color: white;
+}
+a:hover{
+	color:grey;
+}
+a:active{
+	color:grey;
+}
+a:visited{
+	color:white;
+}
+footer{
+	text-align: bottom-left;
+	padding-top: 100px;
+	color: white;
+}
